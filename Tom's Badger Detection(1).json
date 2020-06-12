@@ -1,0 +1,1 @@
+[{"id":"fd1bdfb3.2250f","type":"moment","z":"4ae55c7a.10e9bc","name":"Set date time to 00:00:00","topic":"","input":"","inputType":"msg","inTz":"Europe/London","adjAmount":"40825","adjType":"seconds","adjDir":"subtract","format":"","locale":"en_GB","output":"","outputType":"msg","outTz":"Europe/London","x":1510,"y":640,"wires":[["c774589e.f54218","fe0500c3.4360e8"]]}]
